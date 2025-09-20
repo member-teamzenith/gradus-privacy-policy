@@ -84,7 +84,7 @@ Opting out of marketing communications.
 
 Withdrawing consent (where applicable).
 
-To exercise these rights, contact us at: member.teamzenith@gmai.com.
+To exercise these rights, contact us at: member.teamzenith@gmail.com.
 
 
 9. Third-Party Links
@@ -100,6 +100,7 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 
 If you have questions or concerns about this Privacy Policy, please contact us:
 
-📧 Email: [member.teamzenith@gmai.com]
+📧 Email: [member.teamzenith@gmail.com]
 
 📍 Address: [Pune , Maharashtra , India]
+
