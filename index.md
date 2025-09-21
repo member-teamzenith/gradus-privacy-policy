@@ -1,106 +1,83 @@
-Effective Date: [20/09/25]
-Last Updated: [20/09/25]
+# Gradus Extension Privacy Policy
 
-We respects your privacy and is committed to protecting the personal information of our users, including students, parents/guardians, educators, and institutions. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our Services.
+**Last Updated: 21st September 2025**
 
-1. Information We Collect
+## Overview
+Gradus is a browser extension designed to enhance your learning experience with YouTube videos. This privacy policy explains how we handle your data when you use our extension.
 
-We collect the following categories of information to provide and improve our Services:
+## Data We Access
 
-Personal Information: Name, email address, login credentials.
+### 1. YouTube Video Information
+- We access the video ID from YouTube URLs to identify which video you're watching
+- We do not access video content, thumbnails, or metadata beyond the video ID
 
-Educational Information: Courses enrolled, learning progress, test scores, assignments, and feedback.
+### 2. Transcript Data
+- We temporarily access YouTube's caption/transcript data to provide learning features
+- This data is processed in real-time and not stored permanently
+- We only access transcripts that are publicly available on YouTube
 
-Technical Information: browser, and usage data (pages visited, time spent, etc.).
+### 3. Browser Information
+- We detect when you're on YouTube watch pages to activate the extension
+- We do not track your browsing history or other websites you visit
 
+## How We Use Your Data
 
-User-Generated Content: Files and Data uploaded as part of assignments or discussions.
+### Educational Enhancement
+- Video IDs are used to redirect you to our learning platform
+- Transcript data is used to provide synchronized learning materials
+- All processing happens in real-time for immediate educational benefits
 
-2. How We Use Your Information
+### No Data Storage
+- We do not store your personal information
+- We do not save video IDs or transcript data
+- We do not track your usage patterns
 
-We use your information for the following purposes:
+## Data Sharing
 
-To provide, personalize, and improve the learning experience.
+### No Third-Party Sharing
+- We do not share your data with third parties
+- We do not sell your information
+- We do not use your data for advertising purposes
 
-To track progress and deliver performance insights.
+### Our Learning Platform
+- Video IDs are sent to our learning platform to open the video
+- This is necessary for the extension's core functionality
+- Our platform uses YouTube's official embedded player
 
-To communicate updates, announcements, and customer support.
+## Your Rights
 
-To ensure platform security and prevent misuse.
+### Data Control
+- You can uninstall the extension at any time
+- No personal data is stored, so no deletion is necessary
+- You control when and how the extension is used
 
-To comply with legal and regulatory requirements.
+### Transparency
+- This privacy policy explains all data access
+- We do not access data beyond what's described here
+- All data access is necessary for the extension's functionality
 
+## Security
 
-3. How We Share Your Information
+### Data Protection
+- We use secure methods to access YouTube data
+- All data processing happens locally in your browser
+- We follow YouTube's terms of service and API guidelines
 
-We do not sell your personal data. We may share your information only with:
+## Updates
 
-Service Providers: For hosting, analytics, payment processing, and customer support.
+### Policy Changes
+- We may update this privacy policy as needed
+- Significant changes will be communicated through the extension
+- Continued use constitutes acceptance of updated policies
 
-Educational Institutions / Teachers: Where required to monitor student performance.
+## Contact
+- Whatsapp: +91 902188242
+- email: member.teamzenith@gmail.com
 
-Legal Authorities: When required by law or to protect rights, safety, or security.
+### Questions or Concerns
+- If you have questions about this privacy policy, please contact us
+- We are committed to protecting your privacy and being transparent about our practices
 
-Business Transfers: In case of a merger, acquisition, or restructuring.
+---
 
-
-4. Cookies and Tracking Technologies
-
-We may use cookies, web beacons, and similar technologies to:
-
-Remember user preferences.
-
-Improve platform functionality.
-
-Analyze usage trends.
-
-You can control cookies through your browser settings, but disabling them may limit certain features.
-
-
-5. Data Retention
-
-We retain your personal information only as long as necessary for educational, legal, or business purposes. When no longer needed, we securely delete or anonymize it.
-
-
-6. Data Security
-
-We implement industry-standard security measures (encryption, secure servers, access controls) to protect your information. However, no online platform can guarantee 100% security.
-
-
-7. Children’s Privacy
-
-Our Services are designed for learners, including minors. If you are under 18, you must use our Services under the supervision and consent of a parent/guardian. We do not knowingly collect personal information from children without such consent.
-
-
-8. Your Rights
-
-Depending on your jurisdiction, you may have rights such as:
-
-Accessing your personal data.
-
-Requesting corrections or deletions.
-
-Opting out of marketing communications.
-
-Withdrawing consent (where applicable).
-
-To exercise these rights, contact us at: member.teamzenith@gmail.com.
-
-
-9. Third-Party Links
-
-Our platform may contain links to external websites. We are not responsible for their privacy practices and encourage you to review their policies.
-
-
-10. Changes to This Policy
-
-We may update this Privacy Policy from time to time. Any changes will be posted with the “Last Updated” date at the top. Significant changes may be communicated via email or platform notifications.
-
-11. Contact Us
-
-If you have questions or concerns about this Privacy Policy, please contact us:
-
-📧 Email: [member.teamzenith@gmail.com]
-
-📍 Address: [Pune , Maharashtra , India]
-
+*This privacy policy is designed to be transparent about our data practices while ensuring your privacy is protected.*
